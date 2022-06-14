@@ -68,11 +68,11 @@ Aproveitei esse desafio para praticar em uma nova extensão de CSS e também mel
 
 - [Origamid FlexBox Guide PT-BR](https://origamid.com/projetos/flexbox-guia-completo/) - This helped alot with FlexBox.
 - [Mozilla Developer](https://developer.mozilla.org/pt-BR/) - My favorite reference for HTML, CSS and JavaScript.
--[JavaScript.info](https://javascript.info/)
+- [JavaScript.info](https://javascript.info/)
 
 
 ## Author
 
 - Github - [fagundesraphael](https://github.com/fagundesraphael)
 - Frontend Mentor - [@fagundesraphael](https://www.frontendmentor.io/profile/fagundesraphael)
-- Twitter - [@fagundesraphael](https://www.twitter.com/nuncaestou)
+- Twitter - [@fagundesraphael](https://www.twitter.com/fagundesraphael)
