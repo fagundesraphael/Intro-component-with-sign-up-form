@@ -47,8 +47,8 @@ Aproveitei esse desafio para praticar em uma nova extensão de CSS e também mel
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution:[Solution](https://github.com/fagundesraphael/Intro-component-with-sign-up-form)
+- Live Site: [Live Demo](https://fagundesraphael.github.io/Intro-component-with-sign-up-form/)
 
 
 
